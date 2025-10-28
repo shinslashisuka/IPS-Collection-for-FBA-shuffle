@@ -1,5 +1,11 @@
 20251028: 
+
 Add "2-PracticeMode" to kof96 and kof97.
 Change folder name wofh to sgyxza.
 Delete some unoriginal size previews.
 Update some dat files of kovsh.
+
+ver 0.1 released
+
+Update dat files of wofch and wofch3p. (Done)
+-----------------------------------------------------------
