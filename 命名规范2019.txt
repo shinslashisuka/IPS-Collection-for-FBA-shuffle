@@ -1,0 +1,565 @@
+所有ips文件，都以IPS就按DAT名走.
+
+如下：
+
+1-Chinese.ips
+1-Chinese-s1.ips
+1-Chinese-c1.ips
+第2个-号后维持2位比较美观。当然。如果是单一的就不需要第2个-号
+
+二级子目录定义：（2019.09.01暂试）
+
+1-Language		语言
+2-MultipleES		多种强化-ES为Ex Super缩写
+3-HiddenMode		隐藏模式（隐藏人物）
+4-PowerMode		能量模式（强化消弱）
+5-ControlMode		出招模式（修改简化）
+6-ColorMode		颜色模式（颜色各种修改）
+7-FixMode		修复模式（BUG意义上的修改）
+8-ExtraModify		其他修改
+
+
+
+部分英文缩写列表：
+Ver=V
+UpperLimit/Unlimit=Ut/Un
+Unlock=Ul
+Bootleg=Bl
+EnableHiddenCharacters=EnHiChar
+EnableLastBoss=EnLastBoss
+Power=Pow
+Physical=Physi
+Character=Char
+Transparent=Trans
+InitialWeapons=IntWea
+Infinite=infi
+Background=Bg
+Imitate=Im
+Optimization=Opti
+How to Play=HtP
+Valentine's Day=ValDay
+Random=Rd
+Background=BG
+Accumulation
+=Accum
+Remove=Re
+Reload=Rl
+Restriction=Restr
+Modify=Mod
+PushButton=PB-
+Restore=Res
+ClearAway=CA
+
+
+1语言翻译(Translation)
+1-语言
+1-Chinese
+1-French
+1-Korean
+1-Brazilian
+1-Italian
+1-English
+
+2是整体加强(ExSuperVer)，复数种类修改(UnlimitSpecial/UnlockAllModes)，盗版(Bootleg)
+结合特殊情况。暂时分类以这些离别缩写来命名
+
+
+2-整体加强缩写有版本号就加上V数字
+2-ExSuper		是2个以上修改的系列，统一叫：复数加强版		意思为多功能加强
+2-ExSuperV4
+2-ExPlus
+
+2-ExSuperV(名字)	PGM系列乱七八糟整体修改。如果只按V标志，就太扯了。所以V后面加上原本的名字拼音缩写吧。
+
+2-ExMusou		无双版
+
+2-ImitPlayStation2
+2-ImitDreamCast
+
+2-ThreeArtifactTeam
+
+2-AllCharachters
+
+2-EvolutionVer
+
+2-RemixUltra		混合版，BT版
+
+2-RageOfTheMasses	群众之怒	- -
+
+2-UnlimitedLife
+
+2-复数种类修改
+2-UnSpecial
+2-UlAllModes		模式限制取消
+2-UnlockAllLimit	限制取消综合版
+2-EasyMode
+2-特殊版
+2-NGCDConv
+2-盗版加上盗版名字-个别中文名字盗版就加中文名字拼音缩写
+2-BlPlus
+2-BlSPlus
+2-BlFYZQ
+版本转换
+2-ROM名Conv
+
+2-RegHackAsia
+2-RegHackHispanic
+2-RegHackJapanE
+2-RegHackUSA
+
+3游戏特殊模式解锁(EnableMode)，单独一项模式解开(Unlock)，打开模式(EnableMode)，强化修改(Enhanced)，选择隐藏人物(EnableHiddenCharacters),选择最终BOSS(EnableLastBoss)，家用机模式开启无限投币(AESModeFree)
+3-打开隐藏人物用缩写加Char，Boss则是Boss，隐藏选择则是同样。最后一个单词单独写出来。
+3-EnHiChar
+-3-EnHiCharVAddv1	特殊追加标记。
+
+kof97
+
+3-EnHiCharVa1		对应单boss
+3-EnHiCharVb1		对应3隐藏人
+3-EnHiCharVc1		对应5隐藏人
+3-EnHiCharVd1		对应完整的
+3-EnHiCharVxAddv1	追加。必须有boss的追加功能。
+
+
+3-模式解锁，打开某种模式同上。
+3-UnlockMax2
+3-EnZoomMode
+3-EnEditAll
+3=家用机无限这个就把Mode去掉。
+3-AESFree
+
+3-Unlock3Player
+
+3-EnAESHiMenu
+
+3-UlSwitchChar		取消换人限制
+
+3-EnAESHiMenu		开启家用机模式下隐藏菜单
+
+3-OptiEXmode		月华2里简化选「极」的方式
+
+3-RemoveBloodLimit	红血限制取消
+
+3-InfiCharSelectTime	选人时间没有限制
+
+3-InfiniteEXCEED		EXCEED 不受限制
+
+3-UnlockTachi		七之太刀限制解除
+
+3-UnlockFatality	启用绝命奥义
+
+3-UnlockGameRestr	解锁游戏要求类限制
+
+3-UnlockAllStages
+
+3-UlIntensiveMode	打开秘籍模式
+
+4为能量锁定(LockPower)，初始能量修改(PowerFirst6/PowerFirstMax)，能量模式打开加强(ExPowerMode)，无限能量(FreePower/PowerGaugeUpgrade/FreeStriker/UnlimitedPowerLimit)
+
+4-能量在前面时候为缩写，在后面时候为全写。
+
+4-ExPowMode		能量模式加强并非以下几个模式为此。
+
+4-AttackPowerMax	攻击
+4-BeAttackPowerMax	被攻击
+
+4-HitPowerMax		攻击∕被攻击 全满
+4-HitPowerUp		攻击∕被攻击 增加（1个）
+4-InfinitePower		无限能量模式
+4-FakeInfinitePower	无限能量模式(伪)	不是锁定无限，并且是下面两种以上POW修改且无法拆分。
+
+4-StartPowerMax		初始
+4-MovePowMax		必杀技
+4-ABCPowerMax		按A+B+C后能量为全满
+4-FreeMovePow		无限放必杀技(最少有一格Pow)
+4-PowMaximum5		最大值5
+
+4-CounterInfiniteTime	爆气时间无限
+4-AmorInfiniteTime	装甲时间无限
+4-AmorToCounterMode	装甲转爆反击
+4-AmorModeOptiMove	装甲可用超杀
+
+4-InfiniteStriker	无限ST
+
+4-InfiniteChange	无限换人(格斗系列)/无限合体技
+4-InfiniteSwordPower	剑气计量不减
+4-InfiniteAccumPow	能量无限累积
+
+4-DecreasePower		减少Pow能量
+
+4-RemoveAllExPow	去除所有pow加强模式
+
+4-HighSpeedPow		快速续气？
+
+PowMA-p1.ips					初始
+PowMB-p1.ips				
+PowMC-p1.ips		4-MovePowMax		必杀技
+PowMx-p1.ips		4-InfinitePower			无限能量
+PowMs-p1.ips		????				与mx合并
+			
+
+5为人物控制简化加强(Control/EasyControl/OptimizationControl)，控制修改(ModifyControl)，增加控制(AddControl)，添加控制(PriorityControl/RemixControl/SuperCombo)，以及其他控制(RemixControl/SuperCombo)
+特殊类横版游戏中的初始武器也归类此项目里(First)。
+5-名字加Ctrl(Control简化到开头字幕)
+5-EasyCtrl		出招简化
+5-OptiCtrl		超杀简化
+5-ModifyCtrl	
+
+5-PriorityCtrl
+5-RemixCtrl
+5-NoCharge		取消蓄力
+单独个人出招修改
+5-名字Ctrl
+5-EasyTach
+添加招式
+5-Add名字Ctrl
+5-PowWaveUp		波动相关(有合适在改)
+5-AddSpecialCtrl	添加特殊技相关
+5-IoriUpOIori		指令暴走变身
+5-HitAttack
+
+
+招数上的限制解除，也归类到5吧。
+
+特殊的不动，如下
+5-SuperCombo
+
+
+
+
+5-掉落物品加物品名字缩写
+5-ItemArmsBazooka
+5-ItemArmsClub
+5-ItemArmsMix1
+5-ItemArmsDynamite
+5-ItemArmsGrenade
+5-ItemArmsGun
+5-ItemArmsMix2
+5-ItemArmsRod
+5-ItemArmsShotGun
+5-ItemArmsUzi
+
+
+5-ItemDropAmmonite
+5-ItemDropGolddust
+
+
+5-FoodDropBarbecue
+5-FoodDropCake
+5-FoodDropLobster
+5-FoodDropPaffe
+5-FoodDropSteak
+5-FoodDropSushi
+
+5-PunchOnlyCombo
+
+5-StartTakeGun
+
+
+6为颜色修改，因为颜色名字五花八门。暂时归类为5个种类为人物(Character)，背景(Background)，血槽(EnergyBar)，复数整体(Mix)，其他(Other)
+整体就是几个分类缩写加本身颜色修改的名字
+6-CharColor
+6-CharColorVr2k1		Cthd2003特有：恢复2001原版颜色
+6-MixCharColor			各位数人物颜色修改版
+6-MixBlack
+6-MixIceBlue
+6-MixColorful
+6-MixColorModify		综合修改，无特殊名字
+6-OtherGreenFire
+6-OtherVioletFire
+6-OtherRedFire
+6-OtherBlueFire
+6-OtherBloodRed
+6-MixIce
+6-MixGold
+6-MixGreen
+6-MixPurple
+6-MixSiver
+6-MixPink
+6-MixColor
+6-MixGift
+6-OtherBloody
+6-MixTeam
+6-MixColorful
+6-MixPurpleGreen
+6-CharSwimsuitAthena
+6-CharMukai
+6-CharRetro
+6-CharCammy
+6-CharChunLi
+6-CharJuliJuni
+6-CharAthen
+6-CharMukai
+6-CharMaiMukai3P
+6-InvertColor			反色版
+6-这些直接有特殊名称的略过
+6-BackgroundColor
+6-BGFigure
+6-RedEnergyBar
+6-ImitateKOFXI
+6-XmasCostume
+6-XmasMixTitle
+6-RetroColor
+6-ValDayRedColor
+6-RedBloodBar
+
+7为游戏修复，非官方修复，官方修复都归类为此.
+7-FixSound
+7-FixMusic
+7-FixGameBug
+7-FixName
+7-BgTitleFix		开头背景修复
+7-BgCharFix		选人背景修复
+7-BgHtPFix		教学画面背景修复
+7-MAXMUMFix		MAXIMUM显示修复
+7-ScreenFix		边框修复？
+7-AESModeFix
+7-TransLifeBarFix	透明血槽修复
+7-LifeBarFix		血槽相关错误修复
+
+7-FixBossError		修复BOSS错误
+
+7-FixLPTBug		修复时间血槽能量错误
+
+8为以上无法归类的项目，随便换人，一些其他BT修改
+
+特殊修改专门在分几个种类吧，因为不是版本，就在Ver后面以英文字母来排序，有相同修改就在英文字母后面加数字，个别可以加上修改事物的开头字母。规格如下：
+
+样式修改：（包括时间样式，血槽样式，标题，VerT=时间，VerL=血槽，VerP=暴气槽，特殊添加等其他非这三类归为VerO）
+8-StylesModVer
+时间修改：（时间锁定，时间延长，缩短，技能续气时间缩短都分类于此。）
+8-TimesModVer
+人物状态修改：(选人状态，游戏中人物状态，包括随机=VerR,换人=VerCh，CPU AI=VerCp，颜色=VerCo，增加队伍=VerAd，其他=VerO)：
+8-CharModVer
+游戏模式修改：（游戏中一些特殊模式，比如需要某某条件进入，游戏防御攻击之类加强，去除有些地方变化后失去某些东西。增加小分类：Ul=解锁，Ut=解除上限，合金系列特殊缩写：8-GMM=系列缩写，8-GMMVi=初始）
+8-GameModeModVerA
+按特殊键出新功能类：（按某个键出些游戏本身没有的功能。。归类于此，如按Start出武器，变怪物啥的。）
+8-PB-功能名字
+少部分翻译：（仅仅是界面，或者个别小部分翻译，即归类到此处。）
+8-TranslationChina
+无限类：（无限子弹，无限跳跃，无限血，无限炸弹，除了无限能量以外的所有无限规律于此。）
+8-Infinite功能名字
+另类修改：（无法归类的，如服装特效啥的。）
+8-OtherModVerA
+（上面7类里。Ver也可以直接用名字代替。）
+
+
+合金弹头/越南战役 大改名。
+
+5-InitialBombFB		8-GMMViBombFB		FireBomb		初始炸弹/火焰弹
+5-InitialBombFS		8-GMMViBombFS		Stone			初始炸弹/石头
+5-InitialArmsHMG	8-GMMViArmsHMG		HeavyMachineGun		初始武器/重机枪
+5-InitialArmsSl		8-GMMViArmsSl		Satellite		初始武器/卫星
+5-InitialArmsTC		8-GMMViArmsTC		ThunderCloud		初始武器/雷云
+5-InitialArmsFS		8-GMMViArmsFS		FlameShot		初始武器/火焰发射器
+5-InitialArmsLHMG	8-GMMViArmsLHMG		LargeHeavyMachineGun	初始武器/大型重机枪
+5-InitialArmsDHMG	8-GMMViArmsDHMG		DualHeavyMachineGuns	初始武器/两挺重机枪
+5-InitialArmsRL		8-GMMViArmsRL		RocketLaunchers		初始武器/火箭发射器
+5-InitialArmsLFS	8-GMMViArmsLFS		LargeFlameShot		初始武器/大型火焰发射器
+5-InitialArmsSg		8-GMMViArmsSg		Shotgun			初始武器/散弹枪
+5-InitialArmsLSg	8-GMMViArmsLSg		LargeShotgun		初始武器/大型散弹枪
+5-InitialArmsLG		8-GMMViArmsLG		LaserGun		初始武器/镭射
+5-InitialArmsSFS	8-GMMViArmsSFS		Super Flame Shot	初始武器/超级火焰发射器
+5-InitialArmsLRL	8-GMMViArmsLRL		LargeRocketLaunchers	初始武器/大型火箭发射器
+5-InitialArmsLLG	8-GMMViArmsLLG		LargeLaserGun		初始武器/大型镭射
+5-InitialArmsIL		8-GMMViArmsIL		IronLizard		初始武器/铁蜥蜴
+5-InitialArmsEC		8-GMMViArmsEC		EnemyChaser		初始武器/追踪飞弹
+5-InitialArmsDS		8-GMMViArmsDS		DropShot		初始武器/弹跳弹
+5-InitialArmsSpG	8-GMMViArmsSpG		SuperGrenade		初始武器/超级榴弹枪
+5-InitialArmsCa		8-GMMViArmsCa		Cannon			初始武器/加农炮
+
+8-ABChangeWeapon	8-PB-ChangeWeaponV1	循环换枪
+8-CloseFlash		8-GMMCloseFlash		关闭闪屏
+8-DChangeWeapon		8-PB-ChangeWeaponV2/8-PB-ChangeWeapon	按键换武器
+8-DChangeWeaponX	8-PB-CWeaponCShape	按键换武器
+8-Ini99Grenades		8-GMMVi99Grenades	99颗炸弹
+8-PrisonerNeverLost	8-GMMPrisonerNotClear	战俘不减
+8-SkipMission		8-PB-SkipMission	按键跳关
+8-StartGetVehicle	8-PB-GetVehicle		按键出坐骑
+8-BDChangeChar		8-PB-ChangeChar		按键换人
+8-CoinGetVehicles	8-PB-GetVehicleV3	按键出坐骑
+8-RloadAmmo999		8-GMMRloadAmmo999	换枪999子弹
+8-ChangeBodyType	8-PB-ChangeShape	按键切换形态
+8-BigFatMode		8-CharModBigFat		胖子模式
+8-ZombieMode		8-CharModZombie		僵尸模式		
+8-MummyMode		8-CharModMummy		木乃伊模式
+8-InfiniteJump					无限跳跃
+
+
+8-EnableSelectStage	8-GameModeModStage	选择关卡/解锁所有关卡可选
+3-UnlockAllStages	8-GameModeModStage	选择关卡/解锁所有关卡可选
+
+8-StartGetVehicle	8-PB-Vehicle		按键出座骑和换人
+8-WeaponReplaceArms	8-PB-ChangeWeapon	按键换武器
+8-StartDropWeapon	8-PB-DropWeapon		按键出武器
+
+8-WeaponNeverLost	8-GameModeModWeaponCA	武器不消失
+3-4PlayerMode		8-GameModeEX4Player	四人模式的挑战
+
+8-EnemyEnhance		8-GameModeEnhance
+
+8-GameModeEditAgain
+8-OtherModifyReFlash
+
+8-GameModeModifyReKey		去除钥匙类条件的名字
+
+8-SlimEnergyBar
+8-TransEnergyBar
+8-TransLifeBar
+8-TransTimer
+8-TransStrikerBar
+8-ShadingEnergyBar
+8-FixedPowerGauge
+8-TimerNoFrame
+8-TransEnergyBarColor
+8-SlimEnergyBar
+8-SelectChar
+8-Technologyfit
+
+8-ChangeColorInBattle
+8-ChangeMemberInBattle
+8-ChangeSizeInBattle
+8-PracticePowerEnhanced
+
+8-StartMountChar
+8-WeaponReplaceArms
+8-StartChangeChar
+8-Challenges1vs4
+8-EnemyEnhance
+8-HitAttack
+8-XNoHealthDrain
+
+8-InfiniteLives
+
+8-LengthenLifeBar
+
+8-NoAiCheat
+
+8-AttackPowerMax
+
+8-InfiniteBazookaAmmo
+8-InfiniteM-16A1Ammo
+8-InfiniteRifleAmmo
+8-InfiniteShotGunAmmo
+8-InfiniteUziAmmo
+
+8-InfiniteArmsAmmo
+8-InfiniteSelectTime
+8-MixArmsInfiniteAmmo
+
+8-InternecineRebirth
+
+8-NoTransBlood			不透明效果-血槽
+8-NoTransName			不透明效果-人名
+
+8-ModifyBloodBar		血槽修改
+
+8-ModifyPowerStyle 		怒气样式修改(侍魂5)
+
+8-ExNullBoundary		无之境地加强(侍魂5)
+
+8-UnAesPracticeMode		开启练习模式(侍魂5SP)
+
+8-DoubleMeditation		瞑想计量加倍(侍魂5SP)
+
+8-ZeroStyleLifeGauge		菱纹饰血量表(侍魂5SP)
+
+8-PlayerVsBoss			对战 BOSS 版
+
+[msPac系列]
+8-FastSpeed
+8-PacReHearts
+8-PacReRally-X
+8-MsReMan
+8-PlusVer1
+8-PlusVer2
+8-PlusVer3
+
+
+能量模式/
+
+语言翻译/
+
+另类修改/
+
+隐藏人物/可选隐藏人物
+  └
+隐藏人物追加/
+
+颜色修改/
+
+盗版/
+
+整体修改/
+
+血气槽时间/	改	外观样式/
+
+问题修复/
+
+出招修改/
+
+预设武器/
+
+预设炸弹/
+
+模式解锁/
+
+
+关于留名：
+
+IPS文件制作：
+说明整理：
+测试者：
+测试补充说明：
+DAT与IPS整理：
+
+
+IPS File Make:
+Explain:
+Testers:
+Supplement:
+
+
+加解密转换程序：oak2003
+S1打入C工具：HappyASR[EGCG]
+版本转换：Flycboy[EGCG]
+拆分：
+清理：
+整理：
+特殊配套截图：
+简繁语言转换：
+修改代码优化：Creamymami[EGCG]
+日期：
+Date:
+
+
+加解密转换程序：oak2003
+版本转换：Flycboy[EGCG]
+
+
+复数加强版
+本名：
+
+说明整理：Flycboy[EGCG]
+测试者：
+
+
+繁體說明轉換：Flycboy[EGCG]
+
+修改者备注：
+
+
+
+标点符号请都用中文全角。
+
+
+然后修改说明的数字，都用中文。简体，繁体用中文。
+
+如下：
+
+一：
+二：
+三：
+
+
+原本长说明在同文件名字的TXT里。
