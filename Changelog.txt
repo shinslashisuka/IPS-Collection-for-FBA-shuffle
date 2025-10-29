@@ -1,11 +1,17 @@
 20251028: 
 
-Add "2-PracticeMode" to kof96 and kof97.
-Change folder name wofh to sgyxza.
+Add "2-PracticeMode" to kof96 and kof97. (Done)
+Change folder name wofh to sgyxza. (Done)
 Delete some unoriginal size previews.
-Update some dat files of kovsh.
+Update dat files of kovsh.
 
 ver 0.1 released
 
 Update dat files of wofch and wofch3p. (Done)
 -----------------------------------------------------------
+20251029: 
+
+Remove "8-OtherModV1-V3" of knights for duplication. (Done)
+Fix texts in dat files of wofj. (Done)
+Add "2-kovlsyxqxzl" to kovlsyxqxzlp. (Done)  (already added on 20251028 but has wrong name, fixed now)
+Add "2-ext-20221002" to mslug5fd. (already added on 20251028 but need check the version)
