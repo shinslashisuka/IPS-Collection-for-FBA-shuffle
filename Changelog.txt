@@ -26,4 +26,8 @@ Remove "8-TimesModVer1-3.dat" of sf2hf series for duplication. (Done)
 20251030: 
 
 Rename folder wof3js to wofsjs, wof3jsa to wofsjsa, wofb to wofr1bl. (Done)
+Rename folder sf2tlona to sf2tlon, sf2tlonb to sf2tlon2. (Done)
 Fix texts in dat files of wofr1. (Done)
+Remove sf2m13 for romset changed. (Done)
+Remove "5-EasyZangiefCtrlV1a,b" of sf2ceea for duplication. (Done)
+
