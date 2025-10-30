@@ -17,13 +17,11 @@ Fix texts in dat files of wofj. (Done)
 Add "2-kovlsyxqxzl" to kovlsyxqxzlp. (Done)  (already added on 20251028 but has wrong name, fixed now)
 Add "2-ext-20221002" to mslug5fd. (already added on 20251028 but need check the version)
 Add "8-SF2CESpeed" to ssf2xjr1d and sf2hf (Done)
+Add "9-kf2k1pkz" and "9-kof2k1bs" to kof2k1fd. (Done)
 Remove not working bootleg of kof2k1fd. (Done)
 Remove some pointless "套娃模式" ips of kof2001 series. (Done)
 Remove some 2-MultipleES of kof2001 bootlegs. (Done)
 Remove "8-TimesModVer1-3.dat" of sf2hf series for duplication. (Done)
-Add "8-SF2CESpeed" to ssf2xjr1d and sf2hf (Done)
-Add "9-kf2k1pkz" and "9-kof2k1bs" to kof2k1fd. (Done)
-Add "8-SF2CESpeed" to ssf2xjr1d and sf2hf (Done)
 -----------------------------------------------------------
 20251030: 
 
