@@ -26,5 +26,6 @@ Add "9-kf2k1pkz" and "9-kof2k1bs" to kof2k1fd. (Done)
 Add "8-SF2CESpeed" to ssf2xjr1d and sf2hf (Done)
 -----------------------------------------------------------
 20251030: 
+
 Rename folder wof3js to wofsjs, wof3jsa to wofsjsa, wofb to wofr1bl. (Done)
 Fix texts in dat files of wofr1. (Done)
