@@ -34,3 +34,7 @@ Add "0-kovqxzbws" to kovqxzbfyzq. (Done)
 Change "2-ExSuperVQHSG" to "0-kovqhsgsa" of kovqhsgs. (Done)
 Remove all versions of "2-SuperComb" in kof98h (Leave a backup as 7z pack). Because there is the newest version in rom list already. I think the hacker also considers that the old versions are pointless and it's rediculous to add all versions to the emulator or ips pack. And... too many versions have broken the ips list of kof98h. 
 Massive fixes of kovplus but still has more to do.
+-----------------------------------------------------------
+20251104:
+Add an unconfirmed version to oldsplusnr211
+ver 0.2 released.
