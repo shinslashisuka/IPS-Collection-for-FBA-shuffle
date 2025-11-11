@@ -38,3 +38,7 @@ Massive fixes of kovplus but still has more to do.
 20251104:
 Add an unconfirmed version to oldsplusnr211
 ver 0.2 released.
+-----------------------------------------------------------
+20251111:
+Fix texts in dat files of kof94. (Done)
+Add "0-kovpxba" and "0-kovpxbb" to kovplus. (Done)
