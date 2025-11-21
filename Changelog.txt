@@ -49,7 +49,7 @@ Fix texts in dat files of kof97.
 Add "0-kof97cn" to kof97kr. (Done)
 Add "0-kof94tea" to kof94te. (Done)
 Add "0-kovplusq.dat" to kovpluskr. (Done)
-Add "0-kovplus20tx" "0-kovpxba" "0-kovpxbb" to kovplus. (Done)
+Add "0-kovplus20tx" to kovplus. (Done)
 Add "0-hsf2pp" to hsf2ad. (Done)
 Rename folder and update dat files: hsf2j to hsf2j2. (Done)
 preadd kovdf (not working before fixed)
