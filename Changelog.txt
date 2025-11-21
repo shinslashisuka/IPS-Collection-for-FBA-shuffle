@@ -42,3 +42,15 @@ ver 0.2 released.
 20251111:
 Fix texts in dat files of kof94. (Done)
 Add "0-kovpxba" and "0-kovpxbb" to kovplus. (Done)
+
+20251120:
+Remove all versions of "2-MaerdEdit" in kof97 (Leave a backup as 7z pack) except "2-MaerdEdition.dat" (final ver?). (Done)
+Fix texts in dat files of kof97. 
+Add "0-kof97cn" to kof97kr. (Done)
+Add "0-kof94tea" to kof94te. (Done)
+Add "0-kovplusq.dat" to kovpluskr. (Done)
+Add "0-kovplus20tx" "0-kovpxba" "0-kovpxbb" to kovplus. (Done)
+Add "0-hsf2pp" to hsf2ad. (Done)
+Rename folder and update dat files: hsf2j to hsf2j2. (Done)
+preadd kovdf (not working before fixed)
+Massive fixes of kovplus but still has more to do.
