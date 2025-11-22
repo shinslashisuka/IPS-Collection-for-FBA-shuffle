@@ -1,5 +1,5 @@
 20251028: 
-Add "2-PracticeMode" to kof96 and kof97. (Done)
+Add "8-AddPracticeMode" to kof96. (Done)
 Rename folder and update dat files: wofh to sgyxza. (Done)
 Delete some unoriginal size previews.
 Update dat files of kovsh to current fbas version.
