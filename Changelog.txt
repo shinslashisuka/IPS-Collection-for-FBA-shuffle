@@ -60,4 +60,4 @@ Massive fixes of kovplus but still has more to do.
 Remove mslug5nd for romset changed. (Done)
 Add "2-mslug5ex" to mslug5n. (Done)
 Add "0-kof94nr2" to kof94. (Done) (垃圾整合hack，以后不加这种烂货了)
-Add hacks to mslug5ex.
+Add hacks to mslug5ex. Remove mslug5fd and convert hacks to mslug5ex.
