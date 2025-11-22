@@ -32,11 +32,12 @@ Delete some unoriginal size previews.
 Add "0-kovptstd" and "0-kovtstd" to kovhsqj. (Done)
 Add "0-kovqxzbws" to kovqxzbfyzq. (Done)
 Change "2-ExSuperVQHSG" to "0-kovqhsgsa" of kovqhsgs. (Done)
-Remove all versions of "2-SuperComb" in kof98h (Leave a backup as 7z pack). Because there is the newest version in rom list already. I think the hacker also considers that the old versions are pointless and it's rediculous to add all versions to the emulator or ips pack. And... too many versions have broken the ips list of kof98h. 
+Remove all versions of "2-SuperComb" in kof98h (leave a backup as 7z pack). Because there is the newest version in rom list already. I think the hacker also considers that the old versions are pointless and it's rediculous to add all versions to the emulator or ips pack. And... too many versions have broken the ips list of kof98h. 
 Massive fixes of kovplus but still has more to do.
 -----------------------------------------------------------
 20251104:
-Add an unconfirmed version to oldsplusnr211
+Add an unconfirmed version to oldsplusnr211.
+Restore kof96's s1 to "2-EarlierVersion" of kof96cn. (my preference)
 ver 0.2 released.
 -----------------------------------------------------------
 20251111:
@@ -44,7 +45,7 @@ Fix texts in dat files of kof94. (Done)
 Add "0-kovpxba" and "0-kovpxbb" to kovplus. (Done)
 
 20251120:
-Remove all versions of "2-MaerdEdit" in kof97 (Leave a backup as 7z pack) except "2-MaerdEdition.dat" (final ver?). (Done)
+Remove all versions of "2-MaerdEdit" in kof97 (leave a backup as 7z pack) except "2-MaerdEdition.dat" (final ver?). (Done)
 Fix texts in dat files of kof97. 
 Add "0-kof97cn" to kof97kr. (Done)
 Add "0-kof94tea" to kof94te. (Done)
@@ -52,5 +53,11 @@ Add "0-kovplusq.dat" to kovpluskr. (Done)
 Add "0-kovplus20tx" to kovplus. (Done)
 Add "0-hsf2pp" to hsf2ad. (Done)
 Rename folder and update dat files: hsf2j to hsf2j2. (Done)
-preadd kovdf (not working before fixed)
+preadd kovdf with many hacks. (not working before fixed)
 Massive fixes of kovplus but still has more to do.
+
+20251120:
+Remove mslug5nd for romset changed. (Done)
+Add "2-mslug5ex" to mslug5n. (Done)
+Add "0-kof94nr2" to kof94. (Done) (垃圾整合hack，以后不加这种烂货了)
+Add hacks to mslug5ex.
