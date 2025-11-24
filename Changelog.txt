@@ -53,7 +53,7 @@ Add "0-kovplusq.dat" to kovpluskr. (Done)
 Add "0-kovplus20tx" to kovplus. (Done)
 Add "0-hsf2pp" to hsf2ad. (Done)
 Rename folder and update dat files: hsf2j to hsf2j2. (Done)
-preadd kovdf with many hacks. (not working before fixed)
+preadd many hacks to kovdf. (not working before fixed)
 Massive fixes of kovplus but still has more to do.
 
 20251120:
@@ -61,3 +61,15 @@ Remove mslug5nd for romset changed. (Done)
 Add "2-mslug5ex" to mslug5n. (Done)
 Add "0-kof94nr2" to kof94. (Done) (垃圾整合hack，以后不加这种烂货了)
 Add hacks to mslug5ex. Remove mslug5fd and convert hacks to mslug5ex.
+ver 0.25 released.
+
+20251124:
+Remove duplicate "5-***" hacks of rbff2 rbff2h rbffspec. (Done)
+Add "0-ffigh1v2" to ffightj1. (Done)
+Add "0-ffightdw" to ffightj2. (Done)
+Add "0-ffightfw" to ffight. (Done)
+Add "0-ffightaec2ds" to ffightaec2. (Done)
+Add "0-ffightaemgc" to ffightae. (Done)
+Restore "X2-ExSuperX" of dino and rename it to "8-ExSuperX". (Done)
+Add some hacks to jurassic99.
+Add "0-oldsdsgl" to oldsdsgl. (Done)
