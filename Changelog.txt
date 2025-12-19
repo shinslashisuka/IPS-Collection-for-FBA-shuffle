@@ -49,7 +49,7 @@ Remove all versions of "2-MaerdEdit" in kof97 (leave a backup as 7z pack) except
 Fix texts in dat files of kof97. 
 Add "0-kof97cn" to kof97kr. (Done)
 Add "0-kof94tea" to kof94te. (Done)
-Add "0-kovplusq.dat" to kovpluskr. (Done)
+Add "0-kovplusq" to kovpluskr. (Done)
 Add "0-kovplus20tx" to kovplus. (Done)
 Add "0-hsf2pp" to hsf2ad. (Done)
 Rename folder and update dat files: hsf2j to hsf2j2. (Done)
@@ -73,3 +73,6 @@ Add "0-ffightaemgc" to ffightae. (Done)
 Restore "X2-ExSuperX" of dino and rename it to "8-ExSuperX". (Done)
 Add some hacks to jurassic99.
 Add "0-oldsdsgl" to oldsdsgl. (Done)
+
+20251219:
+Add "0-kof97xt" to kof97kr. (Done)
