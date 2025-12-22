@@ -76,3 +76,13 @@ Add "0-oldsdsgl" to oldsdsgl. (Done)
 
 20251219:
 Add "0-kof97xt" to kof97kr. (Done)
+
+20251221:
+Add 9 hacks of HBMAME (such as "0-kof97yk85" and etc.) to kof97kr. (Done)
+Add "2-invp2" to kof97kr. (Done)
+Add "0-kf2k2p17" to kf2k2pls2017. (Done)
+Restore hacks of kof98 and kof98h in v4.3. (Done)
+Massive fixes of kof97.
+Remove "2-ExSuperVfwjt" of olds100a for duplication. (Done)
+Fix texts and bugs in dat files of kof2003 series. (Done)
+Move existing hacks of kof2003d to kof2k3d. Restore (add dat files) backup ips files of kf2k3bd to kof2003d. (Done)
