@@ -86,3 +86,14 @@ Massive fixes of kof97.
 Remove "2-ExSuperVfwjt" of olds100a for duplication. (Done)
 Fix texts and bugs in dat files of kof2003 series. (Done)
 Move existing hacks of kof2003d to kof2k3d. Restore (add dat files) backup ips files of kf2k3bd to kof2003d. (Done)
+
+20251224:
+Add 3 hacks of HBMAME to svcfd. (Done)
+Add "6-UN" to svcplusa. (Done)
+Add "0-samsh5pf" to ss5spfe. (Done)
+Add hacks and fix dat files for bootleg of wof series.
+
+20251226:
+Fix texts and bugs in dat files of kof99 series. (Done)
+Add some hacks to kof97kr. (Done)
+Massive fixes of kof97.
