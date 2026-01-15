@@ -78,7 +78,7 @@ Add "0-oldsdsgl" to oldsdsgl. (Done)
 Add "0-kof97xt" to kof97kr. (Done)
 
 20251221:
-Add 9 hacks of HBMAME (such as "0-kof97yk85" and etc.) to kof97kr. (Done)
+Add 9 hacks from HBMAME (such as "0-kof97yk85" and etc.) to kof97kr. (Done)
 Add "2-invp2" to kof97kr. (Done)
 Add "0-kf2k2p17" to kf2k2pls2017. (Done)
 Restore hacks of kof98 and kof98h in v4.3. (Done)
@@ -88,12 +88,36 @@ Fix texts and bugs in dat files of kof2003 series. (Done)
 Move existing hacks of kof2003d to kof2k3d. Restore (add dat files) backup ips files of kf2k3bd to kof2003d. (Done)
 
 20251224:
-Add 3 hacks of HBMAME to svcfd. (Done)
+Add 3 hacks from HBMAME to svcfd. (Done)
 Add "6-UN" to svcplusa. (Done)
 Add "0-samsh5pf" to ss5spfe. (Done)
 Add hacks and fix dat files for bootleg of wof series.
 
 20251226:
 Fix texts and bugs in dat files of kof99 series. (Done)
+Add some hacks to kof99fd and kof99kad.
 Add some hacks to kof97kr. (Done)
+Add "2-RemixFinal" to kof96. (Done)
 Massive fixes of kof97.
+
+20260107:
+Fix texts and bugs in dat files of kof2000 series. (Done)
+Add some hacks from FBNeo and GOTVG (such as "0-kof2kotc" and etc.) to kof2knd and kof2kfd. (Done)
+Restore a few versions of "2-SuperComb" to kof98h. (Done)
+Add "0-kof98ult" to kof98ae. (Done)
+
+20260111:
+Add "0-kof98eck" to kof98kr. (Done)
+Add some hacks from FBNeo to kof97kr. (Done)
+
+20260114:
+Add "出招表" folder and add some docs of hacks.
+Massive fixes of kovdf. (Done)
+Massive fixes of kovshp series. (Done)
+Add "0-kovshxsh" to kovdf. (Done)
+Add "0-kovshpqszltw" to kovlsyxqszl. (Done)
+Add 2 hacks from HBMAME to kovshpkr. (Done)
+Add 3 hacks from FBNeo to kovshp. (Done)
+Add some hacks from FBNeo to kof97. (Done)
+Add some hack to sf2ce series.
+ver 0.3 released.
