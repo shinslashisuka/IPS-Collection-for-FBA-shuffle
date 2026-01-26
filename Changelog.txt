@@ -130,7 +130,7 @@ Add "2-dariusgx" to dariusg. (Done)
 Add some hacks to sf2ce series. (Done)
 Add some hacks to wof series. (Done)
 Start to fix texts and bugs in all sets beside kof, mslug, kov, orlegend series. (20% complete)
-Remove "8-UnAesPracticeMode.dat" of samsh5sp. (It is just a set convert not a hack. I added it many years ago.)
+Remove "8-UnAesPracticeMode" of samsh5sp. (It is just a set convert not a hack. I added it many years ago.)
 Add hacks to captcommkr. (Actually I use the prg rom of captcommr1 for dilatancy set. so they are not working until I add "captcommr1kr" to fbas.) 
 
 
