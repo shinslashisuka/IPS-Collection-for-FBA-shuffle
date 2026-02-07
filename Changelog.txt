@@ -131,12 +131,12 @@ Add some hacks to sf2ce series. (Done)
 Add some hacks to wof series. (Done)
 Start to fix texts and bugs in all sets except kof, mslug, kov, orlegend series. (20% complete)
 Remove "8-UnAesPracticeMode" of samsh5sp. (It is just a set convert not a hack. I added it many years ago.)
-Add 14 hacks from FBNeo to captcommkr. (Actually I use the prg rom of captcommr1 for dilatancy set. so they are not working until I add "captcommr1kr" to fbas.) 
+Add some hacks from FBNeo to captcommkr. (Actually I use the prg rom of captcommr1 for dilatancy set. so they are not working until I add "captcommr1kr" to fbas.) 
 
 20260207:
 Add maany hacks to dino series.
 Massive fixes of orlegendc. (Done)
-Make all hacks of captcommkr working. (I sent "captcommr1kr" to KOF2112 but I changed my mind, No need to add it.)
+Add hacks to captcommkr and make all 14 hacks working. (I sent "captcommr1kr" to KOF2112 but I changed my mind, No need to add it.)
 Add 6 hacks from FBNeo to grdians. (Done)
 Add "2-xh" to gradius2. (Done)
 Add 2 hacks to hsf2j2. (Done) 
