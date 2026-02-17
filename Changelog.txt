@@ -141,3 +141,10 @@ Add 6 hacks from FBNeo to grdians. (Done)
 Add "2-xh" to gradius2. (Done)
 Add 2 hacks to hsf2j2. (Done) 
 Fix texts and bugs in all sets except kof, mslug, kov, orlegend series. (30% complete)
+
+20260216:
+Update to new fbas ver. (many things to do)
+Massive fixes of kovsh. (Done)
+Add 2 hacks to knights. (Done)
+Add some hacks to kov2 and kov2p series. (Done)
+Delete unoriginal size previews. (Done)
