@@ -148,3 +148,11 @@ Massive fixes of kovsh. (Done)
 Add 2 hacks to knights. (Done)
 Add some hacks to kov2 and kov2p series. (Done)
 Delete unoriginal size previews. (Done)
+
+20260224:
+Reduce the size of pgm hacks' ips files.
+Fix not working hacks of kovsh. (Not bugs of dat or ips files. they can run in Nebula or some old version emulators. I add patch files or adjust order to fix them, need more test.)
+Add 3 hacks to kof2k2fdkr. (0-kf2k2ps2re is not working, need update the driver)
+Add some hacks to kov and kov2 series.
+Fix texts and bugs in all sets except kof, mslug, kov, orlegend series. (40% complete)
+ver 0.5 released.
