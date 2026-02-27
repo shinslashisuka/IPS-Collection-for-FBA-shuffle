@@ -152,7 +152,13 @@ Delete unoriginal size previews. (Done)
 20260224:
 Reduce the size of pgm hacks' ips files.
 Fix not working hacks of kovsh. (Not bugs of dat or ips files. they can run in Nebula or some old version emulators. I add patch files or adjust order to fix them, need more test.)
-Add 3 hacks to kof2k2fdkr. (0-kf2k2ps2re is not working, need update the driver)
+Add 3 hacks to kof2k2fdkr. ("0-kf2k2ps2re" is not working, need update the driver)
 Add some hacks to kov and kov2 series.
 Fix texts and bugs in all sets except kof, mslug, kov, orlegend series. (40% complete)
 ver 0.5 released.
+
+20260227:
+Fix texts and bugs in all sets except kof, mslug, kov, orlegend series. (60% complete)
+"0-kf2k2ps2re" will be working in next fbas version.
+Add 21 hacks from FBNeo to hook series. (0-hookx2.dat is not working, need add driver of "hookkr")
+Add some hacks to kov and kov2 series.
