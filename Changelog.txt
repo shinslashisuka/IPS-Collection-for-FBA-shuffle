@@ -160,5 +160,5 @@ ver 0.5 released.
 20260227:
 Fix texts and bugs in all sets except kof, mslug, kov, orlegend series. (60% complete)
 "0-kf2k2ps2re" will be working in next fbas version.
-Add 21 hacks from FBNeo to hook series. (0-hookx2.dat is not working, need add driver of "hookkr")
+Add 21 hacks from FBNeo to hook series. ("0-hookx2" is not working, need add driver of "hookkr")
 Add some hacks to kov and kov2 series.
