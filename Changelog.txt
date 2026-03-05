@@ -162,3 +162,9 @@ Fix texts and bugs in all sets except kof, mslug, kov, orlegend series. (60% com
 "0-kf2k2ps2re" will be working in next fbas version.
 Add 21 hacks from FBNeo to hook series. ("0-hookx2" is not working, need add driver of "hookkr")
 Add some hacks to kov and kov2 series.
+
+20260305: 
+Fix texts and bugs in dat files of mslug series. (Done)
+Add "8-GameModeModAdHt" to kof96 kof99 kof2000 kof2001 kof2002. (Done)
+Add "8-AnotherIori" to kof97kr and kof98hkr. (Done)
+Add some PGM hacks.
