@@ -141,6 +141,7 @@ Add 6 hacks from FBNeo to grdians. (Done)
 Add "2-xh" to gradius2. (Done)
 Add 2 hacks to hsf2j2. (Done) 
 Fix texts and bugs in all sets except kof, mslug, kov, orlegend series. (30% complete)
+Fix texts and bugs in dat files of kof2002 series. (Done)
 
 20260216:
 Update to new fbas ver. (many things to do)
@@ -164,7 +165,14 @@ Add 21 hacks from FBNeo to hook series. ("0-hookx2" is not working, need add dri
 Add some hacks to kov and kov2 series.
 
 20260305: 
-Fix texts and bugs in dat files of mslug series. (Done)
+Fix texts and bugs in dat files of mslug (12345x) series. (Done)
 Add "8-GameModeModAdHt" to kof96 kof99 kof2000 kof2001 kof2002. (Done)
 Add "8-AnotherIori" to kof97kr and kof98hkr. (Done)
 Add some PGM hacks.
+
+20260312: 
+Add hacks from FBNeo to mslug (12345) series. (some hacks need update drivers to work)
+Add hacks from FBNeo to kof2002 series. (Done)
+Add description to "0-EmulatorConv" (FBNeo) hacks.
+Fix texts and bugs in all sets except kof, mslug, kov, orlegend series. (70% complete)
+Reduce the size of pgm hacks' ips files.
