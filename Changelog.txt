@@ -176,3 +176,8 @@ Add hacks from FBNeo to kof2002 series. (Done)
 Add description to "0-EmulatorConv" (FBNeo) hacks.
 Fix texts and bugs in all sets except kof, mslug, kov, orlegend series. (70% complete)
 Reduce the size of pgm hacks' ips files.
+
+20260313:
+Add "0-sengk3fs" to sengoku3. (Done)
+Add ips from "bbs.xqemu.cn".
+ver 0.6 released.
