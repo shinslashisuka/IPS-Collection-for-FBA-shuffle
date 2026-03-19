@@ -181,3 +181,8 @@ Reduce the size of pgm hacks' ips files.
 Add "0-sengk3fs" to sengoku3. (Done)
 Add ips from "bbs.xqemu.cn".
 ver 0.6 released.
+
+20260319:
+Add 29 hacks from FBNeo and HBMAME to mslugx and mslugxkr. (Done)
+Add 14 hacks from FBNeo to zeroteam and nzeroteam. (Done)
+Fix texts and bugs in all sets. (80% complete)
