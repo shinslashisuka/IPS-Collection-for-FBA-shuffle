@@ -187,3 +187,9 @@ Add 29 hacks from FBNeo and HBMAME to mslugx and mslugxkr. (Done)
 Add 14 hacks from FBNeo to zeroteam and nzeroteam. (Done)
 Fix texts and bugs in all sets. (80% complete)
 Remove previews for MAMEPlus. (such as kof10th's clone set)
+
+20260324:
+Add 6 hacks from FBNeo to nbbatman. (Done)
+Add ips from "bbs.xqemu.cn".
+Remove hacks based on set convertion of wofr1. (Done)
+Add some hacks from GOTVG to wof series. (Done)
