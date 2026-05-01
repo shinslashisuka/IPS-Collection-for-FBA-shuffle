@@ -193,3 +193,7 @@ Add 6 hacks from FBNeo to nbbatman. (Done)
 Add ips from "bbs.xqemu.cn".
 Remove hacks based on set convertion of wofr1. (Done)
 Add some hacks from GOTVG to wof series. (Done)
+
+20260430:
+Fix texts and bugs in all sets. (90% complete)
+Add ips from cheat_wayder and fix them.
