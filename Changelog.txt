@@ -197,3 +197,10 @@ Add some hacks from GOTVG to wof series. (Done)
 20260430:
 Fix texts and bugs in all sets. (90% complete)
 Add ips from cheat_wayder and fix them.
+ver 0.7 released.
+
+20260505:
+Add ips from "bbs.xqemu.cn".
+Add 6 hacks from FBNeo to punisher and punisherj. (Done)
+Add "0-samsho2pe" to samsho2sp. (Done)
+Change some ips from hack rom set to main rom set.
