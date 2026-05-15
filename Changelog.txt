@@ -204,3 +204,8 @@ Add ips from "bbs.xqemu.cn".
 Add 6 hacks from FBNeo to punisher and punisherj. (Done)
 Add "0-samsho2pe" to samsho2sp. (Done)
 Change some ips from hack rom set to main rom set.
+
+20260505:
+Add many hacks to wofhfh and wofabla. (Done)
+Add "2-sf2mix099" to sf2ce. (Done)
+Fix texts and bugs in all sets. (95% complete)
