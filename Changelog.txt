@@ -209,3 +209,9 @@ Change some ips from hack rom set to main rom set.
 Add many hacks to wofhfh and wofabla. (Done)
 Add "2-sf2mix099" to sf2ce. (Done)
 Fix texts and bugs in all sets. (95% complete)
+
+20260505:
+Add hacks form "romhackplaza.org". (Done)
+Add "2-unlimited" to kof2k1fdkr. (Done)
+Add ips and hacks from "bbs.xqemu.cn".
+Fix texts and bugs in all sets. (99% complete)
