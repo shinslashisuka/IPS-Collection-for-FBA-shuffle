@@ -215,3 +215,11 @@ Add hacks form "romhackplaza.org". (Done)
 Add "2-unlimited" to kof2k1fdkr. (Done)
 Add ips and hacks from "bbs.xqemu.cn".
 Fix texts and bugs in all sets. (99% complete)
+
+20260603:
+Add ips from "bbs.xqemu.cn".
+Add some hacks form hbmame to kof97 kof2002 dino sf2ce avsp series. (Done)
+Add "2-jchan" to jchan2. (Done)
+Fix texts and bugs in all sets. (99.9% complete ?)
+Add "0-kf2k1ult" to kof2k1allboss.
+ver 0.8 released.
