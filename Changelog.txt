@@ -223,3 +223,12 @@ Add "2-jchan" to jchan2. (Done)
 Fix texts and bugs in all sets. (99.9% complete ?)
 Add "0-kf2k1ult" to kof2k1allboss.
 ver 0.8 released.
+
+20260615:
+Add "2-zslm2e" to kovshpkrod; add 2 versions of "qyhc" to kovqxzbfyzq. (Done)
+Merge "ips pack by ddj". (Done)
+Add 10+ hacks from FBNeo to sailormn. (Done)
+Add some hacks form a superb FBNeo mod which called "Plus" to kof97 kof2000 olds series.
+Fix texts and bugs in all sets. (99.99% complete ?)
+Add ips from "bbs.xqemu.cn".
+Add and convert some ips of "taoenwen/FBNeo_IPS". (Some ips of olds100a are not working due to the emulators' differences. Use FBNeo to play them)
