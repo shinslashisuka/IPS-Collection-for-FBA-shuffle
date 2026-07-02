@@ -232,3 +232,10 @@ Add some hacks form a superb FBNeo mod which called "Plus" to kof97 kof2000 olds
 Fix texts and bugs in all sets. (99.99% complete ?)
 Add ips from "bbs.xqemu.cn".
 Add and convert some ips of "taoenwen/FBNeo_IPS". (Some ips of olds100a are not working due to the emulators' differences. Use FBNeo to play them)
+
+20260630:
+Add some hacks from FBNeo to kodu and kodukr. (Done)
+Add some hacks from FBNeo to samsho2sp. (Done)
+Add "2-sf2prime03" and some hacks of it to hsf2ad. (Done)
+Add ips from "bbs.xqemu.cn".
+Add 2 not working hacks to olds103tkr. (olds103tkr will be added in next fbas release but still not working. Use "Plus" to play these hacks)
