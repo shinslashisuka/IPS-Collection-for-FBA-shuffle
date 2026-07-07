@@ -245,5 +245,5 @@ Add some hacks from hbmame to kof and mslug series. (Done)
 Add some hacks from Plus to kof and mslug series. (Done)
 Convert ips of kovlsyxqszl to kovlsyxqxzlp. (Done)
 Add ips from "bbs.xqemu.cn".
-Fixes bugs.
+Fix bugs of mslug5n and mslug5fd. (Done)
 "IPS Collection for FBA shuffle Cross-EMU Edition" ver 1.0 released.
