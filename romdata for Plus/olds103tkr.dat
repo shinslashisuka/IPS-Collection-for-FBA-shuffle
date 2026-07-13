@@ -1,0 +1,25 @@
+// RomData template for FinalBurn Neo
+
+// The *** in the ZipName field cannot be empty and cannot be duplicated with DrvName
+ZipName: olds103tkr
+DrvName: olds103twxlh
+FullName: "西游释厄传 Super (版本 103, 腾讯)(未保护)(扩容, 修改版)"
+
+// Name		Len		Crc32		Type
+"p0500kr.103",	0x00600000,	0x2535c3f7,	0x01100001
+"pgm_t0500.u18",	0x00400000,	0xd881726c,	0x00200002
+"pgm_t0501.u19",	0x00200000,	0xd2106864,	0x00200002
+"pgm_a0500.u5",	0x00400000,	0x80a59197,	0x00200003
+"pgm_a0501.u6",	0x00400000,	0x98c931b1,	0x00200003
+"pgm_a0502.u7",	0x00400000,	0xc3fcdf1d,	0x00200003
+"pgm_a0503.u8",	0x00400000,	0x066dffec,	0x00200003
+"pgm_a0504.u11",	0x00400000,	0x45337583,	0x00200003
+"pgm_a0505.u12",	0x00400000,	0x5b8cf3a5,	0x00200003
+"pgm_a0506.u13",	0x00400000,	0x087ac60c,	0x00200003
+"pgm_a0507.ux",	0x00200000,	0x8d89877e,	0x00200003
+"pgm_b0500.u9",	0x00400000,	0xcde07f74,	0x00200004
+"pgm_b0501.u10",	0x00400000,	0x1546c2e9,	0x00200004
+"pgm_b0502.u15",	0x00400000,	0xe97b31c3,	0x00200004
+"pgm_b0503.u16",	0x00400000,	0xe41d98e4,	0x00200004
+"pgm_b0504.ux",	0x00400000,	0x7d5b6975,	0x00200004
+"pgmkr_m0500.u1",	0x00800000,	0x9dd38774,	0x00400005
