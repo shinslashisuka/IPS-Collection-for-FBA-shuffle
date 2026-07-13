@@ -253,3 +253,6 @@ Add some hacks from FBNeo to sailormn. (Done)
 Change some ips from hack rom set to main rom set or expand rom set.
 Add "0-kovplushsqj2025" to kovhsqj2024. (Not workings. Use Plus to play it)
 Add some hacks to kof98 series and fix all of "7-xxx" dats of kof98 and kof98h.
+Add some hacks from FBNeo to sailormn. (Done)
+Make a color patch to "0-kof97zjzz" of kof97kr. (Done)
+Now all hack roms of fbas which converted to ips get a new category‌ named "ROM 转换".
