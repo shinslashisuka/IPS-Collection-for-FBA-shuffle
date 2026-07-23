@@ -241,7 +241,7 @@ Add ips from "bbs.xqemu.cn".
 Add 2 not working hacks to olds103tkr. (olds103tkr will be added in next fbas release but still not working. Use "Plus" to play these hacks)
 
 20260707:
-Add some hacks from hbmame to kof and mslug series. (Done)
+Add some hacks from hbmame to kof and mslug series.
 Add some hacks from Plus to kof and mslug series. (Done)
 Convert ips of kovlsyxqszl to kovlsyxqxzlp. (Done)
 Add ips from "bbs.xqemu.cn".
@@ -255,3 +255,9 @@ Add some hacks to kof98 series and fix all of "7-xxx" dats of kof98 and kof98h.
 Add some hacks from FBNeo to sailormn. (Done)
 Make a color patch to "0-kof97zjzz" of kof97kr. (Done)
 Now all hack roms of fbas which converted to ips get a new category‌ named "ROM 转换".
+
+20260723:
+Add some hacks to wakuwak7 and viostorm. (Done)
+Add some hacks from hbmame to kof series.
+Add ips from "bbs.xqemu.cn".
+Convert ips of kof2003 series to kof2k3fd. (Done)
