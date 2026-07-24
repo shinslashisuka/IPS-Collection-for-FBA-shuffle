@@ -1,0 +1,25 @@
+// RomData template for FinalBurn Neo
+
+// The *** in the ZipName field cannot be empty and cannot be duplicated with DrvName
+ZipName: kovshpkrod
+DrvName: kovshp
+FullName: "三国战纪 - 乱世枭雄 (版本 101)(扩容, 修改版, 旧版驱动)"
+
+// Name		Len		Crc32		Type
+"p0600h_101.rom",	0x00800000,	0xb6c14c7e,	0x01100001
+"pgm_t0600.u2",	0x00800000,	0x4acc1ad6,	0x00200002
+"pgm_a0600.u3",	0x00800000,	0xd8167834,	0x00200003
+"pgm_a0601.u4",	0x00800000,	0xff7a4373,	0x00200003
+"pgm_a0602.u6",	0x00800000,	0xe7a32959,	0x00200003
+"igs_a05401w064.u8",	0x00800000,	0x4fd3413e,	0x00200003
+"igs_a05411w064.uxx",	0x00800000,	0x1ad2bc45,	0x00200003
+"pgm_a0541.ux",	0x00800000,	0x1ad2bc45,	0x00200003
+"pgm_a0542.ux",	0x00800000,	0x1ad2bc45,	0x00200003
+"pgm_a0543.ux",	0x00800000,	0x1ad2bc45,	0x00200003
+"pgm_a0544.ux",	0x00800000,	0x1ad2bc45,	0x00200003
+"pgm_b0600.u9",	0x00800000,	0x7d3cd059,	0x00200004
+"igs_b05401w064.u11",	0x00800000,	0x60999757,	0x00200004
+"igs_b05411w064.uxx",	0x00800000,	0x3de23e27,	0x00200004
+"pgm_b0542.ux",	0x00800000,	0x3de23e27,	0x00200004
+"pgm_m0600.u5",	0x00800000,	0x2db0e2e0,	0x00400005
+"kovshp_v100_china.asic",	0x00008000,	0x7730b282,	0x01100007
